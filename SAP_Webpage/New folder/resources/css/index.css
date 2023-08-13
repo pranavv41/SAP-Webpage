@@ -1,0 +1,33 @@
+.banner{
+    background-color: white;
+    color: rgb(178, 17, 43);
+    margin-top: 75px;
+    text-align:  center;
+    padding: 10px;
+}
+
+.navbar{
+    background-color:white ;
+    position:fixed;
+    top:0;
+    width: 100px;
+}
+
+.navbar li{
+    display: inline-block;
+    padding:50px 20;
+
+}
+
+.navbar a{
+    text-decoration:none;
+}
+
+#small pic{
+    height:100px;
+    width:100px
+}
+
+.bold{ 
+    font-weight:  900;
+}
